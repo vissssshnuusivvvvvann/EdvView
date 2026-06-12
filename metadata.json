@@ -1,0 +1,6 @@
+{
+  "name": "EdView",
+  "description": "An elegant, interactive, and high-contrast dashboard for academic administrators to manage active classes, student logs, and messaging channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
